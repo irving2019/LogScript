@@ -1,0 +1,5 @@
+{"@timestamp": "2023-01-01T12:00:00Z", "url": "/api/test", "response_time": 0.1}
+{"@timestamp": "2023-01-01T13:00:00Z", "url": "/api/test", "response_time": 0.2}
+{"@timestamp": "2023-01-02T14:00:00Z", "url": "/api/other", "response_time": 0.3}
+{"@timestamp": "bad", "url": "/api/bad", "response_time": 0.1}
+{"@timestamp": "2023-01-01T15:00:00Z", "url": "/api/test", "response_time": "bad"}
